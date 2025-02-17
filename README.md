@@ -1,1 +1,2 @@
 # news
+# magelang today
